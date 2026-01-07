@@ -350,3 +350,603 @@
    1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
      84       2 [kworker/u21:0-brcmf_wq/mmc  0.0  0.0
 
+--- SNAPSHOT AT 2026-01-07 16:11:06 ---
+    PID    PPID CMD                         %MEM %CPU
+  21514       1 /usr/bin/python3 /home/admi  1.2 80.9
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21347       2 [kworker/2:1-events]         0.0  0.1
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:08 ---
+    PID    PPID CMD                         %MEM %CPU
+  21519   21518 ps -eo pid,ppid,cmd,%mem,%c  0.3  500
+  21514       1 /usr/bin/python3 /home/admi  1.2  7.5
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21347       2 [kworker/2:1-events]         0.0  0.1
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:10 ---
+    PID    PPID CMD                         %MEM %CPU
+  21523   21522 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21521   21171 top                          0.5  6.3
+  21514       1 /usr/bin/python3 /home/admi  1.2  3.9
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21347       2 [kworker/2:1-events]         0.0  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:12 ---
+    PID    PPID CMD                         %MEM %CPU
+  21526   21525 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21514       1 /usr/bin/python3 /home/admi  1.2  2.6
+  21521   21171 top                          0.5  2.2
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21347       2 [kworker/2:1-events]         0.0  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:14 ---
+    PID    PPID CMD                         %MEM %CPU
+  21514       1 /usr/bin/python3 /home/admi  1.2  2.1
+  21521   21171 top                          0.5  1.7
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21347       2 [kworker/2:1-events]         0.0  0.1
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:16 ---
+    PID    PPID CMD                         %MEM %CPU
+  21532   21531 ps -eo pid,ppid,cmd,%mem,%c  0.3  500
+  21514       1 /usr/bin/python3 /home/admi  1.2  1.7
+  21521   21171 top                          0.5  1.6
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21347       2 [kworker/2:1-events]         0.0  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:18 ---
+    PID    PPID CMD                         %MEM %CPU
+  21535   21534 ps -eo pid,ppid,cmd,%mem,%c  0.3  700
+  21521   21171 top                          0.5  1.6
+  21514       1 /usr/bin/python3 /home/admi  1.2  1.5
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21347       2 [kworker/2:1-mm_percpu_wq]   0.0  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:20 ---
+    PID    PPID CMD                         %MEM %CPU
+  21538   21537 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21521   21171 top                          0.5  1.3
+  21514       1 /usr/bin/python3 /home/admi  1.2  1.2
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:23 ---
+    PID    PPID CMD                         %MEM %CPU
+  21541   21540 ps -eo pid,ppid,cmd,%mem,%c  0.3  300
+  21521   21171 top                          0.5  1.3
+  21514       1 /usr/bin/python3 /home/admi  1.2  1.1
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:25 ---
+    PID    PPID CMD                         %MEM %CPU
+  21544   21543 ps -eo pid,ppid,cmd,%mem,%c  0.3  400
+  21521   21171 top                          0.5  1.2
+  21514       1 /usr/bin/python3 /home/admi  1.2  1.0
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:27 ---
+    PID    PPID CMD                         %MEM %CPU
+  21547   21546 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21521   21171 top                          0.5  1.1
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.9
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:29 ---
+    PID    PPID CMD                         %MEM %CPU
+  21550   21549 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21521   21171 top                          0.5  1.1
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.8
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:31 ---
+    PID    PPID CMD                         %MEM %CPU
+  21553   21552 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.8
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:33 ---
+    PID    PPID CMD                         %MEM %CPU
+  21556   21555 ps -eo pid,ppid,cmd,%mem,%c  0.3  300
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.7
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:35 ---
+    PID    PPID CMD                         %MEM %CPU
+  21559   21558 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.6
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:37 ---
+    PID    PPID CMD                         %MEM %CPU
+  21562   21561 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.6
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:39 ---
+    PID    PPID CMD                         %MEM %CPU
+  21565   21564 ps -eo pid,ppid,cmd,%mem,%c  0.3  300
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.6
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:41 ---
+    PID    PPID CMD                         %MEM %CPU
+  21568   21567 ps -eo pid,ppid,cmd,%mem,%c  0.3  300
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.5
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:43 ---
+    PID    PPID CMD                         %MEM %CPU
+  21571   21570 ps -eo pid,ppid,cmd,%mem,%c  0.3  400
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:45 ---
+    PID    PPID CMD                         %MEM %CPU
+  21574   21573 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:47 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+  21347       2 [kworker/2:1-events]         0.0  0.0
+
+--- SNAPSHOT AT 2026-01-07 16:11:49 ---
+    PID    PPID CMD                         %MEM %CPU
+  21590   21589 systemctl status simple-log  0.8  2.2
+  21587   21171 sudo systemctl status simpl  0.7  2.1
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.5
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:11:51 ---
+    PID    PPID CMD                         %MEM %CPU
+  21596   21595 ps -eo pid,ppid,cmd,%mem,%c  0.3  700
+  21590   21589 systemctl status simple-log  0.8  0.6
+  21587   21171 sudo systemctl status simpl  0.7  0.6
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.4
+
+--- SNAPSHOT AT 2026-01-07 16:11:53 ---
+    PID    PPID CMD                         %MEM %CPU
+  21599   21598 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.4
+  21590   21589 systemctl status simple-log  0.8  0.3
+  21587   21171 sudo systemctl status simpl  0.7  0.3
+
+--- SNAPSHOT AT 2026-01-07 16:11:55 ---
+    PID    PPID CMD                         %MEM %CPU
+  21602   21601 ps -eo pid,ppid,cmd,%mem,%c  0.3  300
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.4
+  21590   21589 systemctl status simple-log  0.8  0.2
+  21587   21171 sudo systemctl status simpl  0.7  0.2
+
+--- SNAPSHOT AT 2026-01-07 16:11:57 ---
+    PID    PPID CMD                         %MEM %CPU
+  21605   21604 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.4
+  21590   21589 systemctl status simple-log  0.8  0.2
+  21587   21171 sudo systemctl status simpl  0.7  0.2
+
+--- SNAPSHOT AT 2026-01-07 16:11:59 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.4
+  21590   21589 systemctl status simple-log  0.8  0.1
+  21587   21171 sudo systemctl status simpl  0.7  0.1
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:02 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+  21590   21589 systemctl status simple-log  0.8  0.1
+  21587   21171 sudo systemctl status simpl  0.7  0.1
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:04 ---
+    PID    PPID CMD                         %MEM %CPU
+  21614   21613 ps -eo pid,ppid,cmd,%mem,%c  0.3  500
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+  21590   21589 systemctl status simple-log  0.8  0.1
+  21587   21171 sudo systemctl status simpl  0.7  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:06 ---
+    PID    PPID CMD                         %MEM %CPU
+  21617   21616 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:08 ---
+    PID    PPID CMD                         %MEM %CPU
+  21620   21619 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:10 ---
+    PID    PPID CMD                         %MEM %CPU
+  21623   21622 ps -eo pid,ppid,cmd,%mem,%c  0.3  300
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:12 ---
+    PID    PPID CMD                         %MEM %CPU
+  21626   21625 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:14 ---
+    PID    PPID CMD                         %MEM %CPU
+  21629   21628 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:16 ---
+    PID    PPID CMD                         %MEM %CPU
+  21632   21631 ps -eo pid,ppid,cmd,%mem,%c  0.3  300
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:18 ---
+    PID    PPID CMD                         %MEM %CPU
+  21635   21634 ps -eo pid,ppid,cmd,%mem,%c  0.3  250
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:20 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+  21347       2 [kworker/2:1-events]         0.0  0.0
+
+--- SNAPSHOT AT 2026-01-07 16:12:22 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+  21346       2 [kworker/1:0-events]         0.0  0.0
+
+--- SNAPSHOT AT 2026-01-07 16:12:24 ---
+    PID    PPID CMD                         %MEM %CPU
+  21645   21644 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21643   21171 top                          0.5  2.1
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:26 ---
+    PID    PPID CMD                         %MEM %CPU
+  21648   21647 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21643   21171 top                          0.5  1.7
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:28 ---
+    PID    PPID CMD                         %MEM %CPU
+  21651   21650 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21643   21171 top                          0.5  1.0
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.3
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:30 ---
+    PID    PPID CMD                         %MEM %CPU
+  21654   21653 ps -eo pid,ppid,cmd,%mem,%c  0.3  300
+  21643   21171 top                          0.5  1.0
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:32 ---
+    PID    PPID CMD                         %MEM %CPU
+  21657   21656 ps -eo pid,ppid,cmd,%mem,%c  0.3  250
+  21643   21171 top                          0.5  1.2
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:34 ---
+    PID    PPID CMD                         %MEM %CPU
+  21660   21659 ps -eo pid,ppid,cmd,%mem,%c  0.3  350
+  21643   21171 top                          0.5  1.0
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:37 ---
+    PID    PPID CMD                         %MEM %CPU
+  21643   21171 top                          0.5  1.0
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:39 ---
+    PID    PPID CMD                         %MEM %CPU
+  21643   21171 top                          0.5  0.9
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:41 ---
+    PID    PPID CMD                         %MEM %CPU
+  21669   21668 ps -eo pid,ppid,cmd,%mem,%c  0.3  500
+  21643   21171 top                          0.5  0.8
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:43 ---
+    PID    PPID CMD                         %MEM %CPU
+  21643   21171 top                          0.5  0.8
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:45 ---
+    PID    PPID CMD                         %MEM %CPU
+  21643   21171 top                          0.5  0.8
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:47 ---
+    PID    PPID CMD                         %MEM %CPU
+  21679   21678 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:49 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+  21347       2 [kworker/2:1-events]         0.0  0.0
+
+--- SNAPSHOT AT 2026-01-07 16:12:51 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+  21347       2 [kworker/2:1-events_freezab  0.0  0.0
+
+--- SNAPSHOT AT 2026-01-07 16:12:53 ---
+    PID    PPID CMD                         %MEM %CPU
+  21688   21687 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:55 ---
+    PID    PPID CMD                         %MEM %CPU
+  21691   21690 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:12:57 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+  21346       2 [kworker/1:0-mm_percpu_wq]   0.0  0.0
+
+--- SNAPSHOT AT 2026-01-07 16:12:59 ---
+    PID    PPID CMD                         %MEM %CPU
+  21697   21696 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:01 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+  21347       2 [kworker/2:1-events_freezab  0.0  0.0
+
+--- SNAPSHOT AT 2026-01-07 16:13:03 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+  21347       2 [kworker/2:1-events_freezab  0.0  0.0
+
+--- SNAPSHOT AT 2026-01-07 16:13:05 ---
+    PID    PPID CMD                         %MEM %CPU
+  21706   21705 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:07 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+  21347       2 [kworker/2:1-events]         0.0  0.0
+
+--- SNAPSHOT AT 2026-01-07 16:13:09 ---
+    PID    PPID CMD                         %MEM %CPU
+  21711   21171 top                          0.5  4.3
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:11 ---
+    PID    PPID CMD                         %MEM %CPU
+  21717   21716 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21711   21171 top                          0.5  1.3
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:13 ---
+    PID    PPID CMD                         %MEM %CPU
+  21711   21171 top                          0.5  0.9
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:16 ---
+    PID    PPID CMD                         %MEM %CPU
+  21711   21171 top                          0.5  0.9
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:18 ---
+    PID    PPID CMD                         %MEM %CPU
+  21726   21725 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21711   21171 top                          0.5  0.7
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:20 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+  21347       2 [kworker/2:1-events]         0.0  0.0
+
+--- SNAPSHOT AT 2026-01-07 16:13:22 ---
+    PID    PPID CMD                         %MEM %CPU
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+  21346       2 [kworker/1:0-mm_percpu_wq]   0.0  0.0
+
+--- SNAPSHOT AT 2026-01-07 16:13:24 ---
+    PID    PPID CMD                         %MEM %CPU
+  21735   21734 ps -eo pid,ppid,cmd,%mem,%c  0.3  600
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:26 ---
+    PID    PPID CMD                         %MEM %CPU
+  21738   21737 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:28 ---
+    PID    PPID CMD                         %MEM %CPU
+  21741   21740 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:30 ---
+    PID    PPID CMD                         %MEM %CPU
+  21753   21752 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21751   21749 systemctl --system --full -  0.8  3.7
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:32 ---
+    PID    PPID CMD                         %MEM %CPU
+  21761   21760 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:34 ---
+    PID    PPID CMD                         %MEM %CPU
+  21768   21767 ps -eo pid,ppid,cmd,%mem,%c  0.3  300
+  21766   21745 systemctl --system --full -  0.8 40.7
+  21745   21171 -bash                        0.5  1.7
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+
+--- SNAPSHOT AT 2026-01-07 16:13:36 ---
+    PID    PPID CMD                         %MEM %CPU
+  21772   21771 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
+--- SNAPSHOT AT 2026-01-07 16:13:38 ---
+    PID    PPID CMD                         %MEM %CPU
+  21775   21774 ps -eo pid,ppid,cmd,%mem,%c  0.3  200
+  21170   21163 sshd-session: admin@pts/1    0.8  0.5
+  21514       1 /usr/bin/python3 /home/admi  1.2  0.2
+   1584       1 tty-clock -c -s -t -C 7      0.1  0.1
+   1222    1178 /usr/bin/wf-panel-pi         3.5  0.1
+
